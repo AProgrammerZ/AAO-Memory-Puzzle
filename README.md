@@ -1,3 +1,5 @@
+(Solutions to all AAO projects are usually given).
+
 # Memory Puzzle
 
 Today we're going to implement a simple command-line version of the classic [Match 2 memory card game](http://mypuzzle.org/find-the-pair).
